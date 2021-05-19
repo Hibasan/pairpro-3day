@@ -1,0 +1,51 @@
+.contact {
+  width: 600px;
+  margin: 10px;
+  border: solid 1px blue;
+}
+
+img{
+  width: 400px;
+  height: 300px;
+  padding: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+.window {
+  width: 610px;
+}
+
+th{
+  width: 150px;
+  background-color: yellow;
+}
+
+td{
+  padding: 5px;
+  border: solid 1px blue;
+}
+
+.name input{
+  width: 100px;
+}
+
+.form input{
+  width: 200px;
+}
+
+.tell input{
+  width: 50px;
+}
+
+.form-contents textarea{
+  height: 100px;
+  width: 400px;
+}
+
+.submit {
+  padding : 5px;
+}
